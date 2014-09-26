@@ -1,1 +1,9 @@
+src/.settings/
+src/.buildpath
+src/.project
+src/.htaccess
+src/log/*
+src/assets/*
+src/upload/*
+src/protected/runtime/*
 
